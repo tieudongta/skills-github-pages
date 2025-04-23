@@ -3,7 +3,7 @@ title: MY-FIRST-POST
 date: 2025-04022
 ```
 ```
-content:Welcome to My Blog!
+Welcome to My Blog!
 
 Hey there 👋
 Thanks for stopping by!
